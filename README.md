@@ -1,7 +1,7 @@
-<h2 align = "center">
+<h3 align = "center">
     <img src="https://static.wikia.nocookie.net/nerddragon/images/6/6a/Sans.png/revision/latest?cb=20190217074222&path-prefix=pt-br" width="200" /><br/>
     <br/> Megalovania's song <br/>
-</h2>
+</h3>
 
 <br/>
 
