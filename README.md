@@ -7,7 +7,7 @@
 
 ## Descrição
 
-O nosso projeto consiste em tocar a musica do jogo Undertale, "Megalovania", no ESP32, utilizando um buzzer para reporoduzir as notas da música e cinco LEDs que ascendem sempre que uma nota é tocada, cada um para um tipo diferente.
+O nosso projeto consiste em tocar a musica do jogo Undertale, "Megalovania", no ESP32, utilizando um buzzer para reproduzir as notas da música e cinco LEDs que ascendem sempre que uma nota é tocada, cada um para um tipo diferente de frequência.
 
 <br/>
 
@@ -57,7 +57,7 @@ Algumas caracteristicas:
 
 <p align="center">
 Figura - Diagrama/Imagem do circuito<br/>
-  <img src="./Diagrama Do Circuito.png" width="400" /><br/>
+  <img src="./Megalovania's song/Diagrama Do Circuito.png" width="400" /><br/>
 </p>
 
 <br/>
@@ -65,7 +65,7 @@ Figura - Diagrama/Imagem do circuito<br/>
 ## Funcionamento do sistema
 
 <video width="600" controls>
-  <source src="./video_esp32_Megalovania.mp4" type="video/mp4">
+  <source src="./Megalovania's song/video_esp32_Megalovania.mp4.bz2" type="video/mp4">
   Erro: Essa plataforma não suporta vídeos.
 </video>
 
