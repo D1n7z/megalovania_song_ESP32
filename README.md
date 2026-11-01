@@ -21,6 +21,8 @@ O nosso projeto consiste em tocar a musica do jogo Undertale, "Megalovania", no 
 | 5 | LED 5mm e 3mm Alto Brilho | https://shopee.com.br/product/980365465/58218822732 |
 | 1 | Buzzer Passivo 5v Continuo Arduino Raspberry | https://www.mercadolivre.com.br/buzzer-passivo-5v-continuo-arduino-raspberry/up/MLBU1990133010 |
 | 1 | Protoboard | https://www.eletrogate.com/protoboard-400-pontos |
+| 2 | Resistor de 150 Ohms | --- |
+| 3 | Resistor de 47 Ohms | --- |
 | 1 | Fonte de alimentação PowerBank | https://www.americanas.com.br/produto/2706391331 |
 
 ### Lista de conexões
@@ -64,12 +66,13 @@ Algumas caracteristicas:
 
 ## Funcionamento do sistema
 
+<br/>
+
 <p align="center">
-    <br/>
-    <strong>Link para o vídeo do sistema funcionando:</strong><br/>
+    <strong>Link para o vídeo do sistema funcionando:</strong> <br/>
     <a href="https://youtu.be/or9qWGSiigA" target="_blank">
-        <img src="https://i.ytimg.com/vi/or9qWGSiigA/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFMgLih_MA8=&rs=AOn4CLALQBzgnhqeORhJcg2k7RoC3y1EYQ" alt="Video do sistema funcionando" width="500"><br/>
-    </a>
+        <img src="https://i.ytimg.com/vi/or9qWGSiigA/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFMgLih_MA8=&rs=AOn4CLALQBzgnhqeORhJcg2k7RoC3y1EYQ" alt="Video do sistema funcionando" width="500">
+    </a> <br/>
 </p>
 
 <br/>
@@ -116,3 +119,12 @@ Algumas caracteristicas:
 
 - [ ] Possibilidade do usuário configurar um display para mostrar uma animação enquanto a musica toca.
 
+<br/>
+
+## Autores do Projeto
+
+Nathália Rodrigues Pereira
+
+Luiggi Henrique Silva Oliveira
+
+Eduardo Diniz da Silva
