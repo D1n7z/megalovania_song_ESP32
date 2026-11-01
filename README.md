@@ -56,23 +56,23 @@ Algumas caracteristicas:
 ### Circuito
 
 <p align="center">
-Figura - Diagrama/Imagem do circuito<br/>
-  <img src="./Megalovania's song/Diagrama Do Circuito.png" width="400" /><br/>
+    <img src="./Megalovania's song/Diagrama Do Circuito.png" width="400" /><br/>
+    Figura - Diagrama/Imagem do circuito<br/>
 </p>
 
 <br/>
 
 ## Funcionamento do sistema
 
-<video width="600" controls>
-  <source src="./Megalovania's song/video_esp32_Megalovania.mp4.bz2" type="video/mp4">
-  Erro: Essa plataforma não suporta vídeos.
-</video>
+<p align="center">
+    <br/>
+    <strong>Link para o vídeo do sistema funcionando:</strong><br/>
+    <a href="https://youtu.be/or9qWGSiigA" target="_blank">
+        <img src="https://i.ytimg.com/vi/or9qWGSiigA/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFMgLih_MA8=&rs=AOn4CLALQBzgnhqeORhJcg2k7RoC3y1EYQ" alt="Video do sistema funcionando" width="500"><br/>
+    </a>
+</p>
 
-**video do sistema funcionando**
 <br/>
-
-
 
 ### Funções do código
 
