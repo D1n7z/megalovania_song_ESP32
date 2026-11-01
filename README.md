@@ -70,8 +70,8 @@ Algumas caracteristicas:
 
 <p align="center">
     <strong>Link para o vídeo do sistema funcionando:</strong> <br/>
-    <a href="https://youtu.be/or9qWGSiigA" target="_blank">
-        <img src="https://i.ytimg.com/vi/or9qWGSiigA/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFMgLih_MA8=&rs=AOn4CLALQBzgnhqeORhJcg2k7RoC3y1EYQ" alt="Video do sistema funcionando" width="500">
+    <a href="https://youtu.be/kYrjofbJoD4" target="_blank">
+        <img src="https://i.ytimg.com/vi/kYrjofbJoD4/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBqCnFY-2CWGIi3N63t74Nb3EDiGA" alt="Video do sistema funcionando" width="500">
     </a> <br/>
 </p>
 
