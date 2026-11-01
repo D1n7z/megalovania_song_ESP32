@@ -58,7 +58,7 @@ Algumas caracteristicas:
 ### Circuito
 
 <p align="center">
-    <img src="./Megalovania's song/Diagrama Do Circuito.png" width="400" /><br/>
+    <img src="./Diagrama Do Circuito.png" width="400" /><br/>
     Figura - Diagrama/Imagem do circuito<br/>
 </p>
 
