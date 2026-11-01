@@ -41,7 +41,14 @@ O nosso projeto consiste em tocar a musica do jogo Undertale, "Megalovania", no 
 
 #### LED de 5mm e 3mm Alto Brilho
 
-O LED (Light Emitting Diode), convencionalmente, recebe uma corrente eletrica da ponta mais longa Anodo(+) conectada ao polo positivo, transforma essa energia em luz e devolve a corrente pela ponta mais curta Catodo(-) conectada ao polo negativo. Para emitir luz, o LED precisa ser polarizado diretamente, ou seja, o anodo deve receber um potencial elétrico maior que o catodo. Quando os elétrons cruzam a junção semicondutora do LED, eles liberam energia na forma de luz. (Especificações tecnicas em: https://portal.vidadesilicio.com.br/led-com-esp32-curso-esp32-basico/).
+O LED (Light Emitting Diode), convencionalmente, recebe uma corrente eletrica da ponta mais longa Anodo(+) conectada ao polo positivo, transforma essa energia em luz e devolve a corrente pela ponta mais curta Catodo(-) conectada ao polo negativo. Para emitir luz, o LED precisa ser polarizado diretamente, ou seja, o anodo deve receber um potencial elétrico maior que o catodo. Quando os elétrons cruzam a junção semicondutora do LED, eles liberam energia na forma de luz. 
+
+Detalhes:
+
+- Utilizamos essa tabela para calcular estimadamente a resistência de cada LED:
+  ![Tabela de amperagem dos LEDs](https://www.mundodaeletrica.com.br/y/5379/Bacgraund-1.jpg)
+
+(Especificações tecnicas em: https://portal.vidadesilicio.com.br/led-com-esp32-curso-esp32-basico/).
 
 #### Buzzer Passivo 5v
 
